@@ -172,3 +172,39 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Virtual environments
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# SQLite databases
+*.sqlite3
+*.db
+
+# Flask instance folder
+instance/
+
+# Caches and reports
+.mypy_cache/
+.pytest_cache/
+coverage/
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
