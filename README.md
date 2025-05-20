@@ -2,20 +2,20 @@
 
 Une API RESTful géolocalisée pour l'application Loca, conçue pour offrir des services de cartographie intelligents, de suivi GPS en temps réel et de calcul d'itinéraires.
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 - Localisation en temps réel
 - Calcul d’itinéraires
 - Enregistrement des trajets
 - Géocodage / reverse géocoding
 - Authentification des utilisateurs
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python 3.x
 - Flask RESTful
 - PostgreSQL + PostGIS
 - Docker (optionnel)
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/ton_user/loca-api.git
